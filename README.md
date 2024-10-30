@@ -8,6 +8,8 @@
 
 https://github.com/yeyupiaoling/AudioClassification-Pytorch
 
+本项目使用pytorch进行模型训练，在此基础上增加部分模型转化、算法优化提高模型的训练效果以及可迁移性。
+
 
 
 ### 基础使用
